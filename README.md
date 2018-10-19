@@ -28,3 +28,5 @@ github 最不同于其它代码托管网站的一点，是它有一整套完整�
 
 ## GitHub 资料
 - [GitHub 漫游指南](https://github.com/phodal/github)
+
+Please contact me@geekrainy for any questions.
